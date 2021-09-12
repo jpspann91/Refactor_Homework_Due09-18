@@ -1,10 +1,10 @@
 # Horiseon's Landing Page
 
-Horiseons Landing page is a place to get general information on the company Horiseon and the services they offer
+Displays the services offered by Horiseon in a professional manner with proper semantic HTML elements 
 
 ## Usage
 
-Displays the services offered by Horiseon in a professional manner with proper semantic HTML elements 
+Displays information on what services are offered by Horiseon. From Search Engine Optimization to Online Reputation Management and Social Media Marketing. Header includes the company name with a nav bar situated to the right. Each nav point takes you to that area of the site that lists information 
 
 ## Contributing
 

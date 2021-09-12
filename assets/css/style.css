@@ -73,26 +73,26 @@ p {
     
 }
 
-/*float-left Class Selector used to float objects to the left of the element it is in*/
+/*float-left Class Selector used to float elements to the left of the element it is in*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*float-right Class Selector used to float objects to the right of the element it is in*/
+/*float-right Class Selector used to float elements to the right of the element it is in*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/*Content class Selector set the display preoprty width and margins*/
+/*Content class Selector set the display property width and left margin*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*Benefits Class Selector sets properties for benefits aside element*/
+/*Benefits Class Selector sets properties for benefits semantic element (aside)*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
