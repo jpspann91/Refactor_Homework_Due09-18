@@ -1,6 +1,6 @@
 # Horiseon's Landing Page
 
-Horiseons Landing page is a place to visit to get general information on the company Horiseon and the services they offer
+Horiseons Landing page is a place to get general information on the company Horiseon and the services they offer
 
 ## Usage
 
