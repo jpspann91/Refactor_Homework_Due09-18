@@ -4,7 +4,7 @@ Displays the services offered by Horiseon in a professional manner with proper s
 
 ## Usage
 
-Displays information on what services are offered by Horiseon. From Search Engine Optimization to Online Reputation Management and Social Media Marketing. Header includes the company name with a nav bar situated to the right. Each nav point takes you to that area of the site that lists information 
+Displays information on what services are offered by Horiseon. From Search Engine Optimization to Online Reputation Management and Social Media Marketing. Header includes the company name with a navigation bar situated to the right. Each navigation point takes you to that area of the site that lists information 
 
 ## Contributing
 
