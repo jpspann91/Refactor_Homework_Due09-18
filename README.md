@@ -1,4 +1,4 @@
-# Horiseons Landing Page
+# Horiseon's Landing Page
 
 Horiseons Landing page is a place to visit to get general information on the company Horiseon and the services they offer
 
@@ -9,3 +9,11 @@ Displays the services offered by Horiseon in a professional manner with proper s
 ## Contributing
 
 GitLab Repository Provided by UCSD Coding BootCamp
+
+## Author/ Editor
+
+Joseph Paul Spann
+
+## Project Status
+
+Completed before 09/18/2021
