@@ -19,7 +19,8 @@ Joseph Paul Spann
 Completed before 09/18/2021
 
 ## Screenshot
- image URL located within project: [./assets/images/final.png]
+ image URL located within project: ![alt text](./assets/images/final.png)
 
- ## Link
- URL Link to website: https://jpspann91.github.io/Refactor_Homework_Due09-18/
+## Link
+
+URL Link to website: https://jpspann91.github.io/Refactor_Homework_Due09-18/
